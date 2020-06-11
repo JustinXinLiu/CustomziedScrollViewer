@@ -255,24 +255,24 @@
         <ScrollViewer Style="{StaticResource ScrollViewerStyle1}">
             <StackPanel Margin="80,0,0,0" Spacing="40">
                 <Rectangle Height="120" />
-                <TextBlock FontSize="40" Text="FIRST" />
-                <TextBlock FontSize="40" Text="TESTING..." />
-                <TextBlock FontSize="40" Text="TESTING..." />
-                <TextBlock FontSize="40" Text="TESTING..." />
-                <TextBlock FontSize="40" Text="TESTING..." />
-                <TextBlock FontSize="40" Text="TESTING..." />
-                <TextBlock FontSize="40" Text="TESTING..." />
-                <TextBlock FontSize="40" Text="TESTING..." />
-                <TextBlock FontSize="40" Text="TESTING..." />
-                <TextBlock FontSize="40" Text="TESTING..." />
-                <TextBlock FontSize="40" Text="TESTING..." />
-                <TextBlock FontSize="40" Text="TESTING..." />
-                <TextBlock FontSize="40" Text="TESTING..." />
-                <TextBlock FontSize="40" Text="TESTING..." />
-                <TextBlock FontSize="40" Text="TESTING..." />
-                <TextBlock FontSize="40" Text="TESTING..." />
-                <TextBlock FontSize="40" Text="TESTING..." />
-                <TextBlock FontSize="40" Text="LAST" />
+                <TextBlock FontSize="24" Text="FIRST" />
+                <TextBlock FontSize="24" Text="TESTING..." />
+                <TextBlock FontSize="24" Text="TESTING..." />
+                <TextBlock FontSize="24" Text="TESTING..." />
+                <TextBlock FontSize="24" Text="TESTING..." />
+                <TextBlock FontSize="24" Text="TESTING..." />
+                <TextBlock FontSize="24" Text="TESTING..." />
+                <TextBlock FontSize="24" Text="TESTING..." />
+                <TextBlock FontSize="24" Text="TESTING..." />
+                <TextBlock FontSize="24" Text="TESTING..." />
+                <TextBlock FontSize="24" Text="TESTING..." />
+                <TextBlock FontSize="24" Text="TESTING..." />
+                <TextBlock FontSize="24" Text="TESTING..." />
+                <TextBlock FontSize="24" Text="TESTING..." />
+                <TextBlock FontSize="24" Text="TESTING..." />
+                <TextBlock FontSize="24" Text="TESTING..." />
+                <TextBlock FontSize="24" Text="TESTING..." />
+                <TextBlock FontSize="24" Text="LAST" />
                 <Rectangle Height="80" />
             </StackPanel>
         </ScrollViewer>
