@@ -253,35 +253,37 @@
 
     <Grid>
         <ScrollViewer Style="{StaticResource ScrollViewerStyle1}">
-            <StackPanel Spacing="40">
+            <StackPanel Margin="80,0,0,0" Spacing="40">
                 <Rectangle Height="120" />
-                <TextBlock FontSize="40" Text="This is a test (first)" />
-                <TextBlock FontSize="40" Text="This is a test" />
-                <TextBlock FontSize="40" Text="This is a test" />
-                <TextBlock FontSize="40" Text="This is a test" />
-                <TextBlock FontSize="40" Text="This is a test" />
-                <TextBlock FontSize="40" Text="This is a test" />
-                <TextBlock FontSize="40" Text="This is a test" />
-                <TextBlock FontSize="40" Text="This is a test" />
-                <TextBlock FontSize="40" Text="This is a test" />
-                <TextBlock FontSize="40" Text="This is a test" />
-                <TextBlock FontSize="40" Text="This is a test" />
-                <TextBlock FontSize="40" Text="This is a test" />
-                <TextBlock FontSize="40" Text="This is a test" />
-                <TextBlock FontSize="40" Text="This is a test" />
-                <TextBlock FontSize="40" Text="This is a test" />
-                <TextBlock FontSize="40" Text="This is a test" />
-                <TextBlock FontSize="40" Text="This is a test" />
-                <TextBlock FontSize="40" Text="This is a test (last)" />
+                <TextBlock FontSize="40" Text="FIRST" />
+                <TextBlock FontSize="40" Text="TESTING..." />
+                <TextBlock FontSize="40" Text="TESTING..." />
+                <TextBlock FontSize="40" Text="TESTING..." />
+                <TextBlock FontSize="40" Text="TESTING..." />
+                <TextBlock FontSize="40" Text="TESTING..." />
+                <TextBlock FontSize="40" Text="TESTING..." />
+                <TextBlock FontSize="40" Text="TESTING..." />
+                <TextBlock FontSize="40" Text="TESTING..." />
+                <TextBlock FontSize="40" Text="TESTING..." />
+                <TextBlock FontSize="40" Text="TESTING..." />
+                <TextBlock FontSize="40" Text="TESTING..." />
+                <TextBlock FontSize="40" Text="TESTING..." />
+                <TextBlock FontSize="40" Text="TESTING..." />
+                <TextBlock FontSize="40" Text="TESTING..." />
+                <TextBlock FontSize="40" Text="TESTING..." />
+                <TextBlock FontSize="40" Text="TESTING..." />
+                <TextBlock FontSize="40" Text="LAST" />
                 <Rectangle Height="80" />
             </StackPanel>
         </ScrollViewer>
 
         <Border Height="120"
                 VerticalAlignment="Top"
-                Background="{StaticResource SystemControlAcrylicElementBrush}" />
+                Background="{StaticResource SystemControlAccentAcrylicElementAccentMediumHighBrush}"
+                Opacity="0.9" />
         <Border Height="80"
                 VerticalAlignment="Bottom"
-                Background="{StaticResource SystemControlAcrylicElementBrush}" />
+                Background="{StaticResource SystemControlChromeHighAcrylicElementMediumBrush}"
+                Opacity="0.9" />
     </Grid>
 </Page>
